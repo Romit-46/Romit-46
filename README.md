@@ -16,13 +16,30 @@ Dynamic professional with a blend of mathematical, coding skills, and a creative
 
 ## Experience
 
-### Research Assistant, NMIMS India (Oct 2022 – Dec 2022)
-- Contributed to research study design, hypothesis formulation, methodology definition, and research parameter setting.
-- Utilized R and Python for data analysis, delivering insightful observations to support research conclusions.
+### Team Member, Gails Bakery, London(Mar 2024 – Present)
+- Provided exceptional customer service while managing tills and ensuring positive interactions with every customer. 
+- Maintained optimal inventory levels through regular stock checks and analysis, contributing to efficient supply chain 
+management. 
+- Collaborated closely with team members to maximize productivity and foster a positive work culture.
+- Effective communication skills ensured clarity and organization within the team, contributing to overall success and 
+customer satisfaction.
+
+### Financial Analyst Intern, Delta Systematics (Jan 2023 – June 2023)
+- Automated data collection and analysis processes using SQL and Excel macros, resulting in a 25% increase in efficiency 
+and accuracy of financial reporting.
+- Conducted financial analysis and forecasting using SQL, improving the accuracy of financial projections by 15%.
+- Utilized Power BI to create interactive dashboards, enhancing the visibility of key performance indicators and reducing 
+reporting time by 20%.
+- Developed and maintained financial models in Excel, supporting budget variance analysis and contributing to a 10% 
+reduction in operating expenses.
 
 ### Data Analyst Intern, Findability Sciences (Apr 2022 – Jun 2022)
-- Enhanced conversion rates by optimizing the reward function based on click probabilities and developed a model-free reinforcement learning framework.
-- Addressed optimization challenges within budget-constrained bidding scenarios, enhancing efficiency and decision-making.
+- Enhanced conversion rates by 20% through optimizing the reward function, achieving peak performance and pioneering 
+a model-free reinforcement learning framework for optimization tasks.
+- Resolved optimization challenges in budget-constrained bidding, boosting efficiency by 15% and improving decisionmaking processes.
+- Contributed to the creation of interactive data visualization dashboards using Power BI, facilitating intuitive exploration 
+of complex datasets and enhancing data-driven storytelling capabilities
+
 
 ## Projects
 
